@@ -1,4 +1,4 @@
-package Aula_2;
+package Aula_2_1;
 
 public class Data {
  int dia;
